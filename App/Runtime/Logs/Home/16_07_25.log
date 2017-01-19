@@ -1,0 +1,265 @@
+[ 2016-07-25T11:03:40+08:00 ] ::1 /PHP4/weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.042242s ]
+
+[ 2016-07-25T11:03:41+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001302s ]
+
+[ 2016-07-25T11:03:41+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001801s ]
+
+[ 2016-07-25T11:04:24+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001247s ]
+
+[ 2016-07-25T11:04:24+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003217s ]
+
+[ 2016-07-25T15:30:11+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.568209s ]
+
+[ 2016-07-25T15:30:31+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001312s ]
+
+[ 2016-07-25T15:30:31+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001158s ]
+
+[ 2016-07-25T15:30:47+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+
+[ 2016-07-25T15:30:47+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001809s ]
+
+[ 2016-07-25T15:31:06+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+
+[ 2016-07-25T15:31:06+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+
+[ 2016-07-25T15:31:52+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001194s ]
+
+[ 2016-07-25T15:31:52+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001332s ]
+
+[ 2016-07-25T15:33:44+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001200s ]
+
+[ 2016-07-25T15:33:44+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001480s ]
+
+[ 2016-07-25T15:34:39+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001200s ]
+
+[ 2016-07-25T15:34:39+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001752s ]
+
+[ 2016-07-25T15:37:33+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001240s ]
+
+[ 2016-07-25T15:37:34+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001505s ]
+
+[ 2016-07-25T15:37:36+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001193s ]
+
+[ 2016-07-25T15:37:36+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001272s ]
+
+[ 2016-07-25T15:37:37+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001209s ]
+
+[ 2016-07-25T15:37:37+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001607s ]
+
+[ 2016-07-25T15:37:38+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001315s ]
+
+[ 2016-07-25T15:37:38+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001696s ]
+
+[ 2016-07-25T15:37:39+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001184s ]
+
+[ 2016-07-25T15:37:39+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+
+[ 2016-07-25T15:37:41+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001174s ]
+
+[ 2016-07-25T15:37:41+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001936s ]
+
+[ 2016-07-25T15:37:42+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001178s ]
+
+[ 2016-07-25T15:37:42+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001258s ]
+
+[ 2016-07-25T15:37:43+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001186s ]
+
+[ 2016-07-25T15:37:43+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001542s ]
+
+[ 2016-07-25T15:37:44+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+
+[ 2016-07-25T15:37:44+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+
+[ 2016-07-25T15:37:46+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+
+[ 2016-07-25T15:37:46+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+
+[ 2016-07-25T15:37:47+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001184s ]
+
+[ 2016-07-25T15:37:48+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+
+[ 2016-07-25T15:37:48+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+
+[ 2016-07-25T15:37:48+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001256s ]
+
+[ 2016-07-25T15:37:49+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+
+[ 2016-07-25T15:37:49+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001174s ]
+
+[ 2016-07-25T15:37:50+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+
+[ 2016-07-25T15:37:50+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001896s ]
+
+[ 2016-07-25T15:37:54+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001194s ]
+
+[ 2016-07-25T15:37:55+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+
+[ 2016-07-25T15:37:57+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001177s ]
+
+[ 2016-07-25T15:37:57+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001250s ]
+
+[ 2016-07-25T23:53:41+08:00 ] ::1 /PHP4/weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.045661s ]
+
+[ 2016-07-25T23:53:41+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001269s ]
+
+[ 2016-07-25T23:53:42+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001619s ]
+

@@ -1,0 +1,15 @@
+[ 2016-07-24T21:04:21+08:00 ] ::1 /PHP4/weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023369s ]
+
+[ 2016-07-24T21:04:21+08:00 ] ::1 /PHP4/weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001244s ]
+
+[ 2016-07-24T21:04:22+08:00 ] ::1 /PHP4/weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001341s ]
+
